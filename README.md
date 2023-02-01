@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻 Graduate of Computer Science of Frederick University.
+- 🚀 Graduate of Computer Science of Frederick University.
 - 🌱 Currently learning about React, Node, Rust, and Compilers
 
 ### Connect with me:
