@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🚀 Graduate of Computer Science of Frederick University.
+- 💻 Graduate of Computer Science of Frederick University.
 - 🌱 Currently learning about React, Node, Rust, and Compilers
+- 🚀 Advancing my skils of C# / .NET environment
 
 ### Connect with me:
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michalis-papamichael-a46996242/)
