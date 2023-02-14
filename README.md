@@ -1,4 +1,4 @@
-## Hi there, I'm Michalis Papamichael 👋
+## Hi there 👋
 
 ## Full-Stack .NET C# Developer
 <!--
@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 🌱 Currently learning about React, Node, Rust, and Compilers
 - 🚀 Advancing my skils of C# / .NET environment
 
-### Connect with me:
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michalis-papamichael-a46996242/)
+<!-- ### Connect with me:
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michalis-papamichael-a46996242/) -->
 
 ### Languages & Tools:
 [![text](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/michalis-papamichael)
