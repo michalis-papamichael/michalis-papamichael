@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Full-Stack .NET C# Developer
+### I am mainly .NET C# Developer
 <!--
 **michalis-papamichael/michalis-papamichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 💻 Graduate of Computer Science of Frederick University.
-- 🌱 Currently learning about React, Node, Rust, and Compilers
+-->
+- 🌱 Currently learning Rust, and Compilers
 - 🚀 Advancing my skils of C# / .NET environment
 
 <!-- ### Connect with me:
