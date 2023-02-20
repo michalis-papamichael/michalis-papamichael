@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 💻 Graduate of Computer Science of Frederick University.
 -->
-- 🌱 Currently learning Rust, and Compilers
+- 🌱 Currently learning C/C++, Rust, and Compilers
 - 🚀 Advancing my skils of C# / .NET environment
 
 <!-- ### Connect with me:
