@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 💻 Graduate of Computer Science of Frederick University.
 -->
-- 🌱 Currently learning C/C++, Rust, and Compilers
+- 🌱 Currently learning C/C++, and Compilers
 - 🚀 Advancing my skils of C# / .NET environment
 
 <!-- ### Connect with me:
@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 [![text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/michalis-papamichael)
 [![text](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/michalis-papamichael)
 ####
-[![text](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](https://github.com/michalis-papamichael)
+[![text](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/michalis-papamichael)
+[![text](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/michalis-papamichael)
 ####
 [![text](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://github.com/michalis-papamichael)
 [![text](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/michalis-papamichael)
