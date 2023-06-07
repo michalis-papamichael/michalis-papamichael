@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 💻 Graduate of Computer Science of Frederick University.
 -->
-- 🌱 Currently learning C/C++, and Compilers
+- 🌱 Currently learning Go/C/C++, and Compilers
 - 🚀 Advancing my skils of C# / .NET environment
 
 <!-- ### Connect with me:
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 [![text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/michalis-papamichael)
 [![text](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/michalis-papamichael)
 ####
+[![text](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/michalis-papamichael)
 [![text](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/michalis-papamichael)
 [![text](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/michalis-papamichael)
 ####
