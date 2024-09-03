@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 💻 Graduate of Computer Science of Frederick University.
 -->
-- 🌱 Currently learning Go/C, and Compilers
+- 🌱 Currently learning Go/C, Compilers and Networking
 - 🚀 Advancing my skils in C#/.NET 
 
 <!-- ### Connect with me:
